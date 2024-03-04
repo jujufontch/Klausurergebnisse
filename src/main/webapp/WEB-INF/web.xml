@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" version="6.0">
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" 
+xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" version="6.0">
   <servlet>
     <description></description>
     <display-name>Firsttest</display-name>
@@ -8,7 +9,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>Firsttest</servlet-name>
-    <url-pattern>/Firsttest</url-pattern>
+    <url-pattern>/morgen</url-pattern>
   </servlet-mapping>
   <display-name>Firstproject</display-name>
   <welcome-file-list>
