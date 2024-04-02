@@ -42,7 +42,7 @@ table, th, td {
   
 <ul><li> Hier einmal die Klausurergebnisse </li></ul>
 
-<c:if test="${ !empty table }"><p><p> ${spalte} </p>
+<c:if test="${ !empty table }"><p><p> ${table} </p>
 </c:if>
 
 
