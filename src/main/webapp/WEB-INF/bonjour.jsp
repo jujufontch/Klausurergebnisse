@@ -22,7 +22,7 @@ table, th, td {
 
 
 
-<c:if test="${bool }"><ul><li> Die eingegebene Matrikelnummer ist schon belegt , geben sie bitte eine andere ein</li></ul> </p>
+<c:if test="${bool }"><ul><li><b> " Die eingegebene Matrikelnummer ist schon belegt , geben sie bitte eine andere ein " </b></li></ul> </p>
 </c:if>
 
   <p>
